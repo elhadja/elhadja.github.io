@@ -1,0 +1,16 @@
+{
+    "loginComponent": {
+        "requiredPassword": "Password is required",
+        "passwordLabel": "enter your fucking password"
+    },
+    "HomeComponent": {
+        "projects": "Projects"
+    },
+    "DialogProjectDetailsComponent": {
+        "projectDetails": "Project Details",
+        "projectName": "Project name",
+        "projectDescription": "Project Description",
+        "projectManagers": "manager",
+        "projectUsers": "users"
+    }
+}
